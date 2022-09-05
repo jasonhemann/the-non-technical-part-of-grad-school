@@ -1,0 +1,162 @@
+#+TITLE: the-non-technical-part-of-grad-school
+#+AUTHOR: Jason Hemann
+
+* Notes
+
+From a talk on the completing the non-technical part of grad school
+for phd students in computer science. This was from a talk at the
+[[https://wonks.github.io/]PL-Wonks at IU], but it should be pretty
+generally applicable.
+
+* Surprise! 
+
+It might surprise you to learn:
+
+  - your goal is *not* to become a researcher
+  - your goal is *not* to get a PhD
+  - your goal (likely) is to get a tenure-track position at a school of your choice and location.
+
+These are *not* the same thing! This is something you prepare for
+during the entirety of graduate school. If you haven't been actively
+focusing on the latter, as opposed to the former, you're late. Do you
+know:
+
+   - What goes into a diversity statement?
+
+   - How do you re-tool your CV for faculty positions at different types of
+     schools, or a post-doc?
+
+   - Avoiding platitudes that everyone says, what is your teaching
+     philosophy -- say, elaborated in 1-2 pages of prose?
+
+   - How do I do all of this while writing up my dissertation, while
+     putting out research, while building a record of receiving grants?
+
+* You're late
+
+Are you keeping your CV up-to-date(-ish)?
+It's easy to do at the moment, just write it in a comment in the tex file,
+tougher to reconstruct later!
+
+In addition to the things you're regularly considering, your future
+employers are also looking for:
+
+  - A record of receiving grants
+  - A record of service 
+
+What have you been doing on these fronts? 
+
+** Go to the GradGrants Center:
+Either make an appointment with the
+[[http://www.indiana.edu/~gradgrnt/][Grad Grants Center]], or just
+walk in. Their _job_ is to help convince people to give you money,
+often money that goes _unclaimed_!
+
+  - Nothing wrong with trying for /small/ grants. Do it for a
+    project. It'll help you frame your research. It's an exercise good
+    for more than the money.
+  - Travel Grants. In a pinch, these count!
+
+** Building a Service record
+
+  - Reviewing journal/conference submissions?
+  - Graduate student government sorts of things
+  - Promoting diversity in STEM on campus 
+  - Volunteering at conferences? (there's $ in it!) 
+  - Undergraduate mentoring (there's $ for it!)
+  - Summer programs e.g. [[http://indiana.edu/~fsm][FSM]]  (there's $ in it!) 
+
+There's often immediate benefits as well as long-term benefits, and
+it's not nearly as time-consuming as you'd fear. 
+
+Books:
+  - [[https://smile.amazon.com/Professor-Essential-Guide-Turning-Ph-D/dp/0553419420][The
+    Professor is In]]
+  - [[https://smile.amazon.com/How-Get-Phd-Handbook-Supervisors/dp/0335264123/ref=dp_ob_title_bk][How
+    to get a PhD]]
+
+* A Shorter Time Horizon
+
+  Actually completing the dis.
+   1. [[https://smile.amazon.com/Write-Better-Thesis-David-Evans/dp/3319042858/][How to Write a Better Thesis]]
+   2. [[https://smile.amazon.com/How-Complete-Survive-Doctoral-Dissertation/dp/0312396066/][How to Complete and Survive a Doctoral Dissertation]] (Oldie)
+
+  The search:
+   1. [[https://smile.amazon.com/Professor-Essential-Guide-Turning-Ph-D/dp/0553419420][The
+    Professor is In]]
+   2. [[https://smile.amazon.com/Academic-Job-Search-Handbook/dp/0812223403/][The Academic Job Search Handbook]]
+
+
+** The Vita 
+  The CV is important, and you do want to have been keeping it up to
+  date. The career services folk are there and useful, but they're
+  typically more used to putting together. Still useful. SOIC has its
+  own Career Services, they're eager and available to meet. Use in
+  conjunction w/CITL.
+
+
+** CITL
+
+These people are invaluable. I can't speak highly enough of them. They
+are experts in academic hiring the way we are experts in programming
+languages. It would be _silly_ to not take advantage of that. 
+
+If you are:
+  - [[https://wts.indiana.edu/graduate-students/journal-article-writing-groups.html][Submitting to a conference]]
+  - [[https://docs.google.com/forms/d/e/1FAIpQLSepFiLoZQBh-KrtoVhx7VBlz5N0CiRi2s9rqh87ZwmxnbyQPQ/viewform][Writing your dissertation]]
+  - [[https://wts.indiana.edu/graduate-students/workshops-for-graduate-students.html][Building your portfolio]]
+
+or anything of the sort, you should be taking advantage of their
+resources. If you are in what you expect to be your last 2 years of
+graduate school, you _need_ to be hitting these folk up. 
+
+There are
+[[https://tockify.com/gmc.events/detail/296/1515623400000][other
+writing groups]] on campus, and if none of those work, build your own!
+
+
+*** Get feedback on your teaching
+   - Actually improve your performance in class
+   - Have something for your portfolio 
+   - Easy to schedule & set-up
+
+** Other places to look for advice 
+   - [[http://gradschool.cornell.edu/pathways-success/prepare-your-career][Cornell Graduate School site]]
+   - [[https://www.vpul.upenn.edu/careerservices//gradstud/][U Penn Graduate School site]]
+
+* The mechanics of job searching
+ People start posting in August. You would like to be the first one in
+ the door. Notice also that you might want to try twice. 
+ 
+
+** Job Search Sites	
+|--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Name                     | URL                                                                                                                                                                                                                |
+|--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CRA                      | 	http://cra.org/ads/#s=1
+| Monster                  | 	https://www.monster.com/jobs/search/Full-Time_8?q=-Computer
+| HigherEdJobs             | 	https://www.higheredjobs.com/search/advanced_action.cfm?Remote=1&Keyword=&PosType=1&InstType=1%2C2&JobCat=102&Region=0&SubRegions=&Metros=&OnlyTitle=0&StartRow=226&SortBy=1&NumJobs=25&filterby=&CatType=
+| chroniclevitae           | 	https://chroniclevitae.com/job_search?job_search%5Bemployment_type%5D=Full-time&job_search%5Bposition_type%5D=68
+| Academic Jobs Online     | 	https://academicjobsonline.org/ajo?joblist-4-0-0----0-e
+| Inside Higher Ed Careers | 	https://careers.insidehighered.com/jobs/computer-science-and-information-technology/tenured-and-tenure-track/6/
+|--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+* Staying motivated
+
+   1. [[https://www.reddit.com/r/gradabilibuddies/]]
+   2. [[https://www.reddit.com/r/keepwriting]]
+   3. [[https://selfcontrolapp.com/]]
+   4. [[https://www.reddit.com/r/GetStudying/]]
+   5. [[https://www.reddit.com/r/GetStudying/][Online Study Hall]]
+      (password is ~getstudying~)
+
+* Takeaways
+
+  - Schedule a meeting at CITL, go to one of their portfolio-related
+    setups, sign up for a dis. writing group. Just get there. Their
+    utility will make itself manifestly clear.
+
+  - [[https://smile.amazon.com/Professor-Essential-Guide-Turning-Ph-D/dp/0553419420][The
+    Professor is In]]. Go buy it. Go to her blog. Set up an RSS feed
+    so posts are mailed to you. Whatever your faith, this is your new
+    holy text.
