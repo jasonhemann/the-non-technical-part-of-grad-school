@@ -5,7 +5,7 @@
 
 From a talk on the completing the non-technical part of grad school
 for phd students in computer science. This was from a talk at the
-[[https://wonks.github.io/]PL-Wonks at IU], but it should be pretty
+[[https://wonks.github.io/][PL-Wonks at IU]], but it should be pretty
 generally applicable.
 
 * Surprise! 
